@@ -1,0 +1,4 @@
+experiment,child_id,date_iso,start_time,recording_device_type,recording_filename
+fausey-trio public, 1, 2018-07-06, 'NA', lena, G448_001100.wav
+fausey-trio public, 1, 2018-07-07, 'NA', lena, G448_001101.wav
+fausey-trio public, 1, 2018-07-08, 'NA', lena, G448_001102.wav
